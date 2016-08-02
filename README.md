@@ -2,7 +2,7 @@
 
 This tutorial will introduce you to LittleBit's CloudBit API. You'll learn how to list the available CloudBit devices on your account, access individual CloudBits, and send commands to CloudBits for output to occur. You will need a setup CloudBit on [http://control.littlebitscloud.cc/](http://control.littlebitscloud.cc/). If you do not have a CloudBit, you may [http://littlebits.cc/kits/cloudbit-starter-kit](purchase a starter kit from LittleBits). 
 
->> _Why CloudBit and not Raspberry Pi/Arduino?_ LittleBits are designed to be used without much electronics knowledge and a service-oriented architecture (SOA) secured using OAuth 2.0 is provided from LittleBits.
+> _Why CloudBit and not Raspberry Pi/Arduino?_ LittleBits are designed to be used without much electronics knowledge and a service-oriented architecture (SOA) secured using OAuth 2.0 is provided from LittleBits.
 
 ## Goals
 
