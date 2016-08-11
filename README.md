@@ -6,6 +6,7 @@ This tutorial will introduce you to LittleBit's CloudBit API. You'll learn how t
 
 ## Goals
 
+* Introduce the LittleBits ecosystem of modules
 * Verify that your _CloudBit_ is online
 * Understand the basics of _OAuth 2.0_
 * Create appropriate headers for your _requests_ to the API
